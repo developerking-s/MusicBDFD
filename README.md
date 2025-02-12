@@ -1,21 +1,15 @@
-# MUSICA en Bot Desinger For Discord
-
-- **Primer Paso**
-Obten el repositorio en tus manos.
+# Musica em Bdfd 
 
    - Video tutorial [click aqui](https://github.com/IzanaonYT/MusicScript/blob/main/Tutos/githubtuto.mp4)
 - **Segundo Paso**
-Obten un Host Gratuito con un subdominio para que el bot funcione correctamente.
-Vamos usar [Railway.app](https://railway.app), recuerda inicar sesion con tu cuenta git hub
+Obten un Host Gratuita por ex a  [Railway.app](https://railway.app), para hospedar a api 
 
    - Video tutorial [click aqui](https://streamable.com/9qtqhr)
    
-    No olvides poner la variable de entorno llamada "DISCORD_TOKEN" mas el el valor de tu token de tu bot.
-    Recuerda esperar que la API cargue correctamente o causaras problemas en el bot.
+ Tutorial 2 "DISCORD_TOKEN" da valor do token de tu bot
 
 
-- **Tercer Paso**
-Usa los codigos pero recuerda ejecutarlo en un canal de voz y estar unido a este, que esperas para escuchar tu musica preferida?, asi de simple y gracias por ser parte de BDS World
+
 
 ```python
 $onlyIf[$message!=;Escribe algo para escuchar]
