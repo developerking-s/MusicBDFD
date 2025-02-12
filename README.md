@@ -1,7 +1,7 @@
 # Musica em Bdfd 
 
    - Video tutorial [click aqui](https://github.com/IzanaonYT/MusicScript/blob/main/Tutos/githubtuto.mp4)
-- **Segundo Paso**
+
 Obten un Host Gratuita por ex a  [Railway.app](https://railway.app), para hospedar a api 
 
    - Video tutorial [click aqui](https://streamable.com/9qtqhr)
@@ -24,4 +24,5 @@ $httpPost[$var[dominio]/api/musica/;$var[json]]
 $httpResult
 ```
 
-- Codigos mas avanzados con el repositorio: [Click aqui](https://github.com/IzanaonYT/MusicScript/blob/main/Tutos/codes_bdfd.md)
+
+- Codigos diferentes  o github dele : [Click aqui](https://github.com/IzanaonYT/MusicScript/blob/main/Tutos/codes_bdfd.md)
